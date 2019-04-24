@@ -1,0 +1,32 @@
+{
+  "siteWidth": "1150px",
+  "siteColor": "#00AE66",
+  "siteTextColor": "#333",
+  "siteTextLightColor": "#666",
+  "siteTextWeakColor": "#999",
+  "siteBorderColor": "#b2b2b2",
+  "inputBorderColor": "#d1d1d1",
+  "selectBorderColor": "#d1d1d1",
+  "siteLinkColor": "#3390C5",
+  "siteHeaderHeight": "70px",
+  "zIndex1": "1",
+  "zIndex2": "3",
+  "zIndex3": "6",
+  "zIndex4": "9",
+  "zIndex5": "99",
+  "zIndex6": "1996",
+  "zIndex7": "1997",
+  "zIndex8": "1998",
+  "zIndex9": "1999",
+
+  "tiny": "30px",
+  "small": "36px",
+  "middle": "44px",
+  "large": "56px",
+
+  "infoColor": "#8ba1b3",
+  "warnColor": "#ff886f",
+  "successColor": "#54c18c",
+  "solemnColor": "#5492c1",
+  "errorColor": "#e32425"
+}
